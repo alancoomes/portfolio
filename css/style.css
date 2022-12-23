@@ -234,7 +234,7 @@ nav [class*="fa-"]:hover {
   border-radius: 25px;
 }
 
-/* aabout section */
+/* about section */
 #about {
   padding: 4rem 1rem;
   max-width: 1200px;
@@ -278,6 +278,7 @@ nav [class*="fa-"]:hover {
   border-top: 1px solid var(--aqua);
   border-radius: 25px;
 }
+
 
 /* footer section */
 
