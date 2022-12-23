@@ -106,10 +106,20 @@ img {
 /* contact section */
 
 #contact {
-  width: 400px;
+  max-width: 1200px;
   text-align: center;
   margin: 0 auto;
   padding: 4rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#contact p:first-of-type {
+  max-width: 600px;
+  padding-left: 16px;
+  padding-right: 16px;
+  align-self: center;
 }
 
 #contact p:last-child {
